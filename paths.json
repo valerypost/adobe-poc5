@@ -1,6 +1,5 @@
 {
   "mappings": [
-    "/content/adobe-poc5/:/",
-    "/content/adobe-poc5/configuration:/.helix/config.json"
+    "/content/adobe-poc5/:/"
   ]
 }
